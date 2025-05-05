@@ -4,14 +4,14 @@ I'm a passionate Software and DevOps Engineer with strong experience in building
 
 ## 🔧 What I'm Working On
 
-### 🚀 [Career Management Platform](https://github.com/khouloudcherrat/career-ensat)
+### 🚀 [Career Management Platform](https://github.com/khouloudcherrat/carrer_ensat_website)
 A fullstack platform to connect students, alumni, and partners of ENSAT:
 - 🔐 Secure authentication (JWT + Bcrypt)
 - 📬 Automated email generation and password management
 - 🔁 Real-time dashboard updates via Server-Sent Events (SSE)
 - 🛠️ Tech Stack: **Spring Boot**, **Angular**, **MongoDB**, **GitHub Actions**, **AWS ECS**
 
-### 🧪 UI Testing for Catalog Microservice
+### 🧪 [UI Testing for Catalog Microservice](https://github.com/khouloudcherrat/UI-testing-ecommerce-website-microservice)
 Behavior-Driven Development (BDD) and Test-Driven Development (TDD) approach:
 - ✅ Created and tested a microservice backend for an e-commerce catalog
 - 🤖 Automated UI tests using **Selenium + Behave**
